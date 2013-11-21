@@ -1,0 +1,1 @@
+wavread.d: ../wavread.c
